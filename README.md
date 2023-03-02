@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olga
 - 👀 I’m interested in learning the new things, now it is coding
-- 🌱 I’m currently learning to code with SheCodes
+- 🌱 I’m currently learning Automated testing with EPAM in Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
